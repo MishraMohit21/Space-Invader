@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Dev\Game Dev\SFML_Framework\Space_Invader\Space_Invader\Game.cpp(17,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\Space_Invader\Space_Invader\Game.cpp(17,48): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\Space_Invader\Space_Invader\Game.cpp(18,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Dev\Game Dev\SFML_Framework\Space_Invader\Space_Invader\Game.cpp(18,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Dev\Game Dev\SFML_Framework\Space_Invader\Space_Invader\Game.cpp(37,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\Space_Invader\Space_Invader\Game.cpp(37,42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\Space_Invader\Space_Invader\Game.cpp(41,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Space_Invader.vcxproj -> C:\Dev\Game Dev\SFML_Framework\Space_Invader\Debug\Space_Invader.exe
