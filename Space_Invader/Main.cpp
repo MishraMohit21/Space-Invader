@@ -3,6 +3,7 @@
 int main()
 { 
 	std::cout << "Hello"; 
+	std::srand(static_cast<unsigned>(time(NULL)));
 
 	Game game;
 
