@@ -1,0 +1,24 @@
+﻿  Game.cpp
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(17,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(17,48): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(18,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(18,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(27,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(27,42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(31,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(53,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(53,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(56,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(81,100): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(81,100): warning C4244:         with
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(81,100): warning C4244:         [
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(81,100): warning C4244:             T=float
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(81,100): warning C4244:         ]
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(125,31): warning C4018: '<=': signed/unsigned mismatch
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\dev\Space-Invader-main\Space-Invader-main\Space_Invader\Game.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  Space_Invader.vcxproj -> C:\dev\Space-Invader-main\Space-Invader-main\Debug\Space_Invader.exe
